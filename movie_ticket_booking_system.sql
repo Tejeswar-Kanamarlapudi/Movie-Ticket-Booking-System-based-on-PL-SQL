@@ -64,7 +64,6 @@ begin
 end;
 /
 
-select * from booked_tickets;
 
 
  
