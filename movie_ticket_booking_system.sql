@@ -1,4 +1,4 @@
----                 Simple Movie Ticket Booking System For One Theatre
+---                 Movie Ticket Booking System For One Theatre
 
 
 set serveroutput on;
